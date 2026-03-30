@@ -6,7 +6,8 @@ class InitState extends FlxState
     override function create() {
         super.create();
 
-        trace('phrases: ${AssetUtil.getAssetsOfPathExtension('phrases', 'wav')}');
+        trace('phrasesAudio: ${Global.phrasesAudio}');
+        trace('phrasesData: ${Global.phrasesData}');
     }
     
 }

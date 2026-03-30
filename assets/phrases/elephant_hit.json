@@ -1,0 +1,24 @@
+{
+    "lyrics": [
+        {
+            "time": 0.673,
+            "phrase": "Elephant"
+        },
+        {
+            "time": 1.227,
+            "phrase": "... hit",
+            "fadeAfter": 1
+        }
+    ],
+    "altOptions": [
+        [
+            "Telephant",
+            "Lerikant"
+        ],
+        [
+            "Pit",
+            "Kit",
+            "Wit"
+        ]
+    ]
+}
